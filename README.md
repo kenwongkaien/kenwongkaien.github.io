@@ -1,7 +1,3 @@
-# Dev Landing Page
+# My Landing Page
 
-Minimal landing page for developers.
-
-## License
-
-MIT © Dinesh Pandiyan
+Minimalist web design.
